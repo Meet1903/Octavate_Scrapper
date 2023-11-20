@@ -1,4 +1,4 @@
-# Scrapper
+# Scrapper for ML Project Data Gathering
 
 Update the domain_list.txt according to your requirements.
 
